@@ -1,4 +1,4 @@
-# Note : this code was writtenn for educational perposes only
+# Note : this code was written for educational perposes only
 # you have to install "pyautogui" using  this command  :
 # pip install pyautogui
 
