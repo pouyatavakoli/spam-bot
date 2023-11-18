@@ -1,8 +1,6 @@
 # messenger-bot
 sending several messages to a chat very fast and simple
 
-Note : this code was written for educational perposes only
-
 installation :
 
 befor running the code  you should install  "pyautogui" using  this command  :
